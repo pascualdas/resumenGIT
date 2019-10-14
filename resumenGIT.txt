@@ -1,5 +1,3 @@
-Pendiente el resumen. 20191014-01:20am
-
 ########### ACTUALIZACION DESDE EL FORK QUE REALIZARÁ UN PULLREQUEST ######################
 
 Config GIT: https://git-scm.com/book/es/v2
@@ -40,7 +38,7 @@ OTROS COMANDOS:
 
 
 
-TRABAJO COLABORATIVO: xl3nxfbGkzY
+TRABAJO COLABORATIVO: https://www.youtube.com/watch?v=xl3nxfbGkzY
 
 - A [Origin] Pascualdas@gmail.com        - https://github.com/pascualdas/novela
 - B [Fork] marilyn_man18@hotmail.com     - https://github.com/pasqaldas/novela
